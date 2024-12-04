@@ -1,5 +1,5 @@
 
-# django-quickstart
+# ⚡django-quickstart
 
 django-quickstart is a simple Django application designed to simplify your development process. It provides a ready-to-use **landing page**, built-in **authentication**, and a **dashboard**. For a smoother development experience, it includes **django-auto-reload** to enable hot reloading and **django-tailwind** for immediate use of TailwindCSS.
 
